@@ -2,3 +2,6 @@ Own commands for workflow
 
 
 find . -executable -type f >> .gitignore
+
+Compile all C files in a directory
+https://stackoverflow.com/questions/19765536/compile-all-c-files-in-a-directory-using-gcc-compiler-in-cmd
