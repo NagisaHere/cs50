@@ -1,0 +1,4 @@
+Own commands for workflow
+
+
+find . -executable -type f >> .gitignore
